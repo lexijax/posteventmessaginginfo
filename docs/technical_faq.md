@@ -1,6 +1,6 @@
-### What is Kettering
+### What is Kettering?
 
-Kettering is a standard message format that Out of Hours services use to report back to GP’s. The issue with the standard is that it wasn’t maintained and now there are many variants of that standard. This has developed by evolution over a long time and has become fragmented. This is a problem for NHS 111 providers as they are unable to determine what versions are being sent to where making it difficult to send an electronic PEM for patients that are out of area. This would force the 111 provider into faxing the report which has a wide range of quality, is difficult to manage and is more expensive on both parties.
+[Kettering](./glossary.md#kettering) is a standard message format that Out of Hours services use to report back to GP’s. The issue with the standard is that it wasn’t maintained and now there are many variants of that standard. This has developed by evolution over a long time and has become fragmented. This is a problem for NHS 111 providers as they are unable to determine what versions are being sent to where making it difficult to send an electronic PEM for patients that are out of area. This would force the 111 provider into faxing the report which has a wide range of quality, is difficult to manage and is more expensive on both parties.
 
 ### What is DTS?
 
@@ -15,9 +15,13 @@ ITK is the acronym for HSCIC’s Interoperability Toolkit. It’s a standard for
 See [CDA](CDA is short for Clinical Document Architecture. It is a set of standards applied to HL7 messages to provide structure and integrity to the messages that are transmitted from one computer system to another. The receiving system is able to inspect these and know exactly what information is contained where. They do need to be populated with quality content.
 
 ### What is Rendered PEM and What does it look like?
+<a name="renderedpem">PEM</a>
+[Rendered PEM](./glossary.md#renderedpem) means 'Rendered Post Event Message' - it is also sometimes known as 'Rendered CDA' standing for 'Rendered Clinical Document Architecture'.
 
-Rendered PEM is a CDA document that is converted from being machine readable to human readable. Rendering can be done prior to sending to allow for sending documents to people over NHS mail for example. Using rendered PEM is a good way of integrating services quickly and cheaply, it would mean manual work for receivers but offers a good interim solution while receiving software applications are building the functionality.
+It refers to a CDA document which has been converted from XML format (designed for processing by software) to a human-readable format such as PDF or HTML.
 
-A version of the pre-rendered PEM can be found here: [NHS111CopyRecipientRendered.pdf](media/NHS111CopyRecipientRendered.pdf)
+Rendering can be done prior to sending to allow for sending documents to people over NHS mail for example. Using rendered PEM is a good way of integrating services quickly and cheaply, it would mean manual work for receivers but offers a good interim solution while receiving software applications are building the functionality.
 
-Recipients are also able to apply custom renderers to the native CDA documents if they wish.
+An example of a Rendered PEM can be found here: <a href="../downloads/NHS111CopyRecipientRendered.pdf">NHS111CopyRecipientRendered.pdf</a>
+
+Systems can also to apply their own custom renderers (converters) to the XML CDA documents to change the style of the human-readable output.
