@@ -12,11 +12,13 @@ ITK is the acronym for HSCIC’s Interoperability Toolkit. It’s a standard for
 
 ### What is CDA?
 
-See [CDA](CDA is short for Clinical Document Architecture. It is a set of standards applied to HL7 messages to provide structure and integrity to the messages that are transmitted from one computer system to another. The receiving system is able to inspect these and know exactly what information is contained where. They do need to be populated with quality content.
+[CDA](./glossary.md#cda) is short for Clinical Document Architecture.
+
+It is a set of standards applied to HL7 messages to provide structure and integrity to the messages that are transmitted from one computer system to another. The receiving system is able to inspect these and know exactly what information is contained where. They do need to be populated with quality content.
 
 ### What is Rendered PEM and What does it look like?
-<a name="renderedpem">PEM</a>
-[Rendered PEM](./glossary.md#renderedpem) means 'Rendered Post Event Message' - it is also sometimes known as 'Rendered CDA' standing for 'Rendered Clinical Document Architecture'.
+
+<a name="renderedpem">[Rendered PEM](./glossary.md#renderedpem)</a> standards for **Rendered Post Event Messag** - it is also sometimes known as 'Rendered CDA' standing for 'Rendered Clinical Document Architecture'.
 
 It refers to a CDA document which has been converted from XML format (designed for processing by software) to a human-readable format such as PDF or HTML.
 

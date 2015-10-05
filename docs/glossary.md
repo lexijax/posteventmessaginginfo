@@ -1,9 +1,9 @@
 <dl>
 
-  <dt><a name="dts">DOS</a></dt>
+  <dt><a name="dos">DOS</a></dt>
   <dd>Directory Of Services</dd>
 
-  <dt>CDA</dt>
+  <dt><a name="cda">CDA</a></dt>
   <dd>CDA is short for Clinical Document Architecture. It is a set of standards applied to HL7 messages to provide structure and integrity to the messages that are transmitted from one computer system to another. The receiving system is able to inspect these and know exactly what information is contained where. They do need to be populated with quality content.</dd>
 
   <dt>DTS</dt>
