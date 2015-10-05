@@ -33,7 +33,12 @@ This relates to the fact that NHS 111 is a nationally available number, although
 TBC
 
 ### Why am I receiving Faxes?
-TBC
+
+A practice may receive a fax if they are not using ITK or NHSMail, this is generally due to one of the practices' patients being handled by an out of area 111 service in another part of the country, perhaps while travelling for work or an occasional misrouting of a call. The service handing the call will always obey the DOS and a lookup will occur, if there is an ITK endpoint or and NHSMail email address it will adhere to it.
+
+However in the event that neither ITK or NHSMail are returned from the DOS the out of area service will not know about any local configuration that the local service may have. This leaves the service little option to meet it's NQR requirements and they will typically fax a version of the PEM to the practice.
+
+Faxes can also occur in the odd event of a technical failure from local 111 services as a contingency mechanism.
 
 ### Why am I receiving different versions of PEM?
 TBC
