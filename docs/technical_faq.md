@@ -24,6 +24,6 @@ It refers to a CDA document which has been converted from XML format (designed f
 
 Rendering can be done prior to sending to allow for sending documents to people over NHS mail for example. Using rendered PEM is a good way of integrating services quickly and cheaply, it would mean manual work for receivers but offers a good interim solution while receiving software applications are building the functionality.
 
-An example of a Rendered PEM can be found here: <a href="../downloads/NHS111CopyRecipientRendered.pdf">NHS111CopyRecipientRendered.pdf</a>
+An example of a Rendered PEM can be found here: <a href="../files/NHS111CopyRecipientRendered.pdf">NHS111CopyRecipientRendered.pdf</a>
 
 Systems can also to apply their own custom renderers (converters) to the XML CDA documents to change the style of the human-readable output.
