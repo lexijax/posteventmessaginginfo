@@ -41,4 +41,9 @@ However in the event that neither ITK or NHSMail are returned from the DOS the o
 Faxes can also occur in the odd event of a technical failure from local 111 services as a contingency mechanism.
 
 ### Why am I receiving different versions of PEM?
-TBC
+
+Firstly if a practice is using ITK then all PEM will be consistent as every 111 service will adhere to it. In the event NHSMail is used then it is up to the sending service to render that message before it is trasmitted. The local version of that renderer may have deviated from the national standard, this is acceptable however services choosing to do this need to factor in they will be causing a variance problem to other practices around the country when dealing with our of area calls.
+
+Faxing is also locally determined and varies greatly across the country as it tends to have a multitude of local varience aligning with out of ours service requirements, systems also give the call handler choice so therefore isn't always system driven and can introduce user error into the equation.
+
+Varience and choice is part of the fundamental standard, however it is best implimented after a message has been received via ITK as this will have no impact on any other service and is the recommended approach.
