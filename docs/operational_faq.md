@@ -29,8 +29,9 @@ This list is reviewed as part of each NHS Pathways version release by the Region
 This relates to the fact that NHS 111 is a nationally available number, although routing calls is very accurate it cannot be guaranteed that a GP’s patients will be handled by the local 111 service. This can be due to border issues, new mobile masts that haven't been assigned to the area they are in and other factors that cannot be controlled. Water can also carry mobile phone signals much further distances and make it possible for a mobile mast further away to be connected to a mobile handset.
 
 
-### Will I still receive a PEM message if the patient has been referred to me for onward care?
-TBC
+### Will I still receive a PEM message if the patient has been directed to me for onward care?
+
+If a patient is told to contact their GP a PEM will be sent that will clearly state this is for action. A second PEM for information should not be received. If either of these are happening then it is a symptom of not using ITK or NHSMail for PEM purposes.
 
 ### Why am I receiving Faxes?
 
