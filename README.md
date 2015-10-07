@@ -17,7 +17,3 @@ Ensure commit messages are clear and have a single line to describe the change. 
 ### Issues
 
 If you have a suggestion and don't understand how to contribute, [head over to the issues section](https://github.com/NHS111/posteventmessaginginfo/issues) and log an issue. One of the core committers will review it and create a pull request on your behalf.
-
-## License
-
-The project is licensed under the MIT license.
