@@ -5,7 +5,7 @@ Community-owned documentation around NHS 111 Post Event Messaging within the NHS
 
 Committing to master will initiate an automated build of the documentation and be instantly available to users on the live site.
 
-The site can be accessed at [http://posteventmessaginginfo.readthedocs.org](http://posteventmessaginginfo.readthedocs.org)
+The site can be accessed at [https://posteventmessaginginfo.readthedocs.org](https://posteventmessaginginfo.readthedocs.org)
 
 
 ## Contribute
