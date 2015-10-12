@@ -40,7 +40,7 @@
   <dd>PEM stands for <b>P</b>ost <b>E</b>vent <b>M</b>essaging.
   <br>
   <br>
-  In the context of NHS 111 is an electronic document that is transmitted to GP practices at the end of an NHS 111 contact to notifiy that a contact has taken place.. There are essentially two types of PEM a GP can receive: one that is ‘For Action’ meaning a GP has been referred back to their own GP with a timeframe associated with it; the other is a ‘For Your Information’ message which is for the GP to inspect and file against the patients record.<dd>
+  In the context of NHS 111 is an electronic document that is transmitted to GP practices at the end of an NHS 111 contact to notifiy that a contact has taken place.. There are essentially two types of PEM a GP can receive: one that is ‘For Action’ meaning a GP has been referred back to their own GP with a timeframe associated with it; the other is a ‘For Information’ message which is for the GP to inspect and file against the patients record.<dd>
 
   <dt><a name="renderedpem">Rendered PEM</a></dt>
   <dd>Rendered PEM means 'Rendered Post Event Message'.
