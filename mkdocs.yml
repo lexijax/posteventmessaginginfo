@@ -2,11 +2,11 @@ site_name: Post Event Messaging Info
 theme: readthedocs
 pages:
   - Home: index.md
-  - Help Guides:
-    - Configuring GP Systems for ITK: guides/configuring_gp_systems.md
-  - Contractual Guidance: StandardContractExtract2015.md
+  - NHS Standard Contract Guidance: StandardContractExtract2015.md
+  - Configuration Guides:
+    - Configuring ITK for GP Systems: guides/configuring_gp_systems.md
   - Frequently Asked Questions:
-    - Operational: operational_faq.md
-    - Technical: technical_faq.md
+    - Operational Questions: operational_faq.md
+    - Technical Questions: technical_faq.md
   - Glossary: glossary.md
   - Want To Help?: contribute.md
