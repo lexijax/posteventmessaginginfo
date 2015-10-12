@@ -1,3 +1,4 @@
+<a name="q1"></a>
 ### As a GP, should I receive a PEM for every call to NHS 111?
 
 A [PEM](./glossary.md#pem) will be received by the GP surgery from NHS 111 if the outcome was ‘For Action’ - this means that the patient has been told to see his or her own GP.
@@ -34,7 +35,7 @@ NHS 111 is a nationally available number and although routing calls is very accu
 
 ### Will I still receive a PEM message if the patient has been directed to me for onward care?
 
-If a patient is told to contact their GP a [PEM](./glossary.md#pem) will be sent that will clearly state this is for action. A second [PEM](./glossary.md#pem) for information should not be received. If either of these are happening then it is a symptom of not using [ITK](./glossary.md#itk) or NHSMail for PEM purposes.
+See [*As a GP, should I receive a PEM for every call to NHS 111?*](#q1)
 
 ### Why am I receiving Faxes?
 
