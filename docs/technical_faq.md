@@ -18,7 +18,7 @@ It is a set of standards applied to HL7 messages to provide structure and integr
 
 ### What is Rendered PEM and What does it look like?
 
-<a name="renderedpem">[Rendered PEM](./glossary.md#renderedpem)</a> standards for **Rendered Post Event Messag** - it is also sometimes known as 'Rendered CDA' standing for 'Rendered Clinical Document Architecture'.
+<a name="renderedpem">[Rendered PEM](./glossary.md#renderedpem)</a> standards for **Rendered Post Event Message** - it is also sometimes known as 'Rendered CDA' standing for 'Rendered Clinical Document Architecture'.
 
 It refers to a CDA document which has been converted from XML format (designed for processing by software) to a human-readable format such as PDF or HTML.
 

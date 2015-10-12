@@ -16,7 +16,8 @@ The [NHS Standard Contract 2015-16](http://www.england.nhs.uk/statistics/wp-cont
 
 The change is that, for the above situations, use of secure fax is no longer permitted as a Delivery Method with effect from **1 October 2015 – Discharge Summaries and Post-Event Messages must instead be sent by secure email or direct electronic transmission.**
 
-There is strong encouragement that organisations should adopt a direct electronic transmission approach for sending Discharge Summaries and this should use the “Transfers of Care” Interoperability Toolkit specifications that are aligned with the Academy of Medical Royal Colleges endorsed clinical headings. These will be available from March 2015 at HSCIC TRUD.
+There is strong encouragement that organisations should adopt a direct electronic transmission approach for sending Discharge Summaries and this should use the “Transfers of Care” Interoperability Toolkit specifications that are aligned with the Academy of Medical Royal Colleges endorsed clinical headings. These will be available from March 2015 at [HSCIC](./glossary.md#hscic) [TRUD](./glossary.md#trud).
+
 
 
 **34.28** The second new requirement is on all providers to be able to send and receive Discharge Summaries or Post-Event Messages using all applicable Delivery Methods. For situations other than those described in `34.27` above, the ‘applicable’ Delivery Method for particular providers should be set out in Schedule 2J (Transfer of and Discharge from Care Protocols) – this could set out, for instance, that, where discharge summaries are being sent to a care home, this could continue to be done by fax.
